@@ -12,3 +12,15 @@ The NotifyMeApplication is an Android app designed to notify users about specifi
 To run NotifyMeApplication on your local machine, clone the repository and import the project into Android Studio:
 ```bash
 git clone https://github.com/srujan-project/NotifyMeApplication.git
+
+Build the project in Android Studio and run it on your Android device or emulator.
+
+## Usage
+After installing the app, follow the on-screen instructions to configure your notification preferences and start receiving alerts based on the specified conditions.
+
+## Dependencies
+NotifyMeApplication depends on the following libraries:
+
+Android SDK
+Kotlin Standard Library
+Any other third-party libraries
