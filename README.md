@@ -12,7 +12,7 @@ The NotifyMeApplication is an Android app designed to notify users about specifi
 To run NotifyMeApplication on your local machine, clone the repository and import the project into Android Studio:
 ```bash
 git clone https://github.com/srujan-project/NotifyMeApplication.git
-
+```
 Build the project in Android Studio and run it on your Android device or emulator.
 
 ## Usage
